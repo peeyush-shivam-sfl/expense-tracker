@@ -144,6 +144,9 @@ label {
   top: 170px;
   width: 70%;
 }
+.add-category-container form {
+  margin-top: 20px;
+}
 
 .add-category-container input {
   height: 2rem;
